@@ -86,7 +86,7 @@ function go () {
 		crawl(finish);
 	});
 }
-
+// hallo
 
 function collectInternalLinks (body) {
 	// Log.debug("Collecting Device URLs");
