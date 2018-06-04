@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-db",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "fs": "*",
+    "eslint-config-db": "../eslint-config-db/",
+    "request": "*",
+    "cheerio": "*",
+    "fs-extra": "*",
+    "moment": "*",
+    "path": "*",
+    "async": "*",
+    "eslint": "*",
+    "eslint-plugin-react": "*"
+  },
+  "license": "ISC"
+}
